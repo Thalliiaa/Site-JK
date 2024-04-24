@@ -58,7 +58,7 @@
         </div>
 
         <div class="tips">
-            <h3>Hidrate as cutículas</j3>
+            <h3>Hidrate as cutículas</h3>
             <p>cuidado com o sabão, ele pode acabar removendo a hidratação natural da pele. Para evitar que isso danifique as cutículas e unhas, você pode usar hidratantes e ceras nutritivas especiais para elas.</p>
         </div>
 
